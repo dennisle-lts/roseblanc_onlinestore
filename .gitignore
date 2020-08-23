@@ -1,1 +1,5 @@
 *.code-workspace
+firebase.json
+firebase-debug.log
+.firebaserc
+*.cache
